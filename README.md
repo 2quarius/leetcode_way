@@ -9,6 +9,8 @@
 |[344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)|异或？|
 |[842. 将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)|DFS 深度优先算法|
 |[1072. 按列翻转得到最大值等行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|数学规律|
+|[912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)|排序算法|
+|[1144. 递减元素使数组呈锯齿状](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag/)|Brute Force|
 ## TimeLine
 ### 20190805 Mon
 [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)|[solution](./records/148.md)
