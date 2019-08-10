@@ -11,6 +11,7 @@
 |[1072. 按列翻转得到最大值等行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|数学规律|
 |[912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)|排序算法|
 |[1144. 递减元素使数组呈锯齿状](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag/)|Brute Force|
+|[140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|递归？回溯+减支？
 ## TimeLine
 ### 20190805 Mon
 [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)|[solution](./records/148.md)
@@ -34,3 +35,5 @@
 [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)|[solution](./records/912.md)
 
 [1144. 递减元素使数组呈锯齿状](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag/)|[solution](./records/1144.md)
+### 20190809 Fri
+[140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|[solution](./records/140.md)
