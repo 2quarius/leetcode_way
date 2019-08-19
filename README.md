@@ -3,6 +3,7 @@
 |Problem|Solution|
 |-------|--------|
 |[51. N皇后](https://leetcode-cn.com/problems/n-queens/)|回溯法|
+|[52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)|回溯法|
 |[140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|递归？回溯+减支？|
 |[148. 排序链表](https://leetcode-cn.com/problems/sort-list/)|[Merge Sort](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)(归并排序)|
 |[344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)|异或？|
@@ -15,8 +16,10 @@
 |[912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)|排序算法|
 |[952. 按公因数计算最大组件大小](https://leetcode-cn.com/problems/largest-component-size-by-common-factor/)|筛素数+并查集|
 |[971. 翻转二叉树以匹配先序遍历](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal/)|DFS 深度优先算法|
+|[993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/)|DFS 深度优先算法|
 |[997. 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/)|出入度|
 |[1001. 网格照明](https://leetcode-cn.com/problems/grid-illumination/)| 遍历|
+|[1032. 字符流](https://leetcode-cn.com/problems/stream-of-characters/)|字典树|
 |[1072. 按列翻转得到最大值等行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|数学规律|
 |[1104. 二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)|ZigZag Decode 位运算|
 |[1144. 递减元素使数组呈锯齿状](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag/)|Brute Force|
@@ -62,3 +65,9 @@
 [879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)|[solution](./records/879.md)
 
 [997. 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/)|[solution](./records/997.md)
+### 20190819 Mon
+[1032. 字符流](https://leetcode-cn.com/problems/stream-of-characters/)|[solution](./records/1032.md)
+
+[52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)|[solution](./records/52.md)
+
+[993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/)|[solution](./records/993.md)
