@@ -6,7 +6,9 @@
 |[52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)|回溯法|
 |[140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|递归？回溯+减支？|
 |[148. 排序链表](https://leetcode-cn.com/problems/sort-list/)|[Merge Sort](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)(归并排序)|
+|[232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|stack|
 |[344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)|异或？|
+|[438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|频次|
 |[494. 目标和](https://leetcode-cn.com/problems/target-sum/)|Brute Force + Recursion/01背包|
 |[530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)|中序遍历|
 |[643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|Brute Force/01背包|
@@ -71,3 +73,7 @@
 [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)|[solution](./records/52.md)
 
 [993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/)|[solution](./records/993.md)
+### 20190820 Tue
+[438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|[solution](./records/438.md)
+
+[232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[solution](./records/232.md)
