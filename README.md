@@ -6,15 +6,18 @@
 |[52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)|回溯法|
 |[140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|递归？回溯+减支？|
 |[148. 排序链表](https://leetcode-cn.com/problems/sort-list/)|[Merge Sort](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)(归并排序)|
+|[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|遍历|
 |[232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|stack|
 |[344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)|异或？|
 |[438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|频次|
 |[494. 目标和](https://leetcode-cn.com/problems/target-sum/)|Brute Force + Recursion/01背包|
 |[530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)|中序遍历|
+|[594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)|排序|
 |[643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|Brute Force/01背包|
 |[833. 字符串中的查找与替换](https://leetcode-cn.com/problems/find-and-replace-in-string/)|string::find,string::replace|
 |[842. 将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)|DFS 深度优先算法|
 |[879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)|动态规划|
+|[903. DI 序列的有效排列](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)|动态规划|
 |[912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)|排序算法|
 |[952. 按公因数计算最大组件大小](https://leetcode-cn.com/problems/largest-component-size-by-common-factor/)|筛素数+并查集|
 |[971. 翻转二叉树以匹配先序遍历](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal/)|DFS 深度优先算法|
@@ -77,3 +80,9 @@
 [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|[solution](./records/438.md)
 
 [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[solution](./records/232.md)
+### 20190821 Wed
+[903. DI 序列的有效排列](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)|[solution](https://github.com/grandyang/leetcode/issues/903)
+
+[594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)|[solution](./records/594.md)
+
+[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[solution](./records/160.md)
