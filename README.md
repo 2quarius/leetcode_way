@@ -4,12 +4,15 @@
 |-------|--------|
 |[51. N皇后](https://leetcode-cn.com/problems/n-queens/)|回溯法|
 |[52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)|回溯法|
+|[112. 路径总和](https://leetcode-cn.com/problems/path-sum/)|递归|
 |[140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|递归？回溯+减支？|
 |[148. 排序链表](https://leetcode-cn.com/problems/sort-list/)|[Merge Sort](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)(归并排序)|
 |[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|遍历|
 |[232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|stack|
+|[274. H指数](https://leetcode-cn.com/problems/h-index/)|排序+遍历|
 |[344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)|异或？|
 |[438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|频次|
+|[459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)|翻倍|
 |[494. 目标和](https://leetcode-cn.com/problems/target-sum/)|Brute Force + Recursion/01背包|
 |[530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)|中序遍历|
 |[594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)|排序|
@@ -86,3 +89,9 @@
 [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)|[solution](./records/594.md)
 
 [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[solution](./records/160.md)
+### 20190822 Thu
+[112. 路径总和](https://leetcode-cn.com/problems/path-sum/)|[solution](./records/112.md)
+
+[459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)|[solution](./records/459.md)
+
+[274. H指数](https://leetcode-cn.com/problems/h-index/)|[solution](./records/274.md)
