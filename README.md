@@ -10,6 +10,7 @@
 |[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|遍历|
 |[232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|stack|
 |[274. H指数](https://leetcode-cn.com/problems/h-index/)|排序+遍历|
+|[337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|递归|
 |[344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)|异或？|
 |[438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|频次|
 |[459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)|翻倍|
@@ -17,6 +18,7 @@
 |[530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)|中序遍历|
 |[594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)|排序|
 |[643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|Brute Force/01背包|
+|[673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|动态规划|
 |[833. 字符串中的查找与替换](https://leetcode-cn.com/problems/find-and-replace-in-string/)|string::find,string::replace|
 |[842. 将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)|DFS 深度优先算法|
 |[879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)|动态规划|
@@ -27,6 +29,7 @@
 |[993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/)|DFS 深度优先算法|
 |[997. 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/)|出入度|
 |[1001. 网格照明](https://leetcode-cn.com/problems/grid-illumination/)| 遍历|
+|[1009. 十进制整数的反码](https://leetcode-cn.com/problems/complement-of-base-10-integer/)|stoi|
 |[1032. 字符流](https://leetcode-cn.com/problems/stream-of-characters/)|字典树|
 |[1072. 按列翻转得到最大值等行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|数学规律|
 |[1104. 二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)|ZigZag Decode 位运算|
@@ -95,3 +98,9 @@
 [459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)|[solution](./records/459.md)
 
 [274. H指数](https://leetcode-cn.com/problems/h-index/)|[solution](./records/274.md)
+### 20190823 Fri
+[337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|[solution](./records/337.md)
+
+[673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|[solution](./records/673.md)
+
+[1009. 十进制整数的反码](https://leetcode-cn.com/problems/complement-of-base-10-integer/)|[solution](./records/1009.md)
