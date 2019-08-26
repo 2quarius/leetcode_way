@@ -14,6 +14,8 @@
 |[344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)|异或？|
 |[438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|频次|
 |[459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)|翻倍|
+|[466. 统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/)|抽屉原理|
+|[473. 火柴拼正方形](https://leetcode-cn.com/problems/matchsticks-to-square/)|DFS|
 |[494. 目标和](https://leetcode-cn.com/problems/target-sum/)|Brute Force + Recursion/01背包|
 |[530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)|中序遍历|
 |[594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)|排序|
@@ -104,3 +106,7 @@
 [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|[solution](./records/673.md)
 
 [1009. 十进制整数的反码](https://leetcode-cn.com/problems/complement-of-base-10-integer/)|[solution](./records/1009.md)
+### 20190824 Mon
+[473. 火柴拼正方形](https://leetcode-cn.com/problems/matchsticks-to-square/)|[solution](./records/473.md)
+
+[466. 统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/)|[solution](./records/466.md)
