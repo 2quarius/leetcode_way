@@ -8,6 +8,7 @@
 |[140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|递归？回溯+减支？|
 |[148. 排序链表](https://leetcode-cn.com/problems/sort-list/)|[Merge Sort](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)(归并排序)|
 |[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|遍历|
+|[220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|排序+窗口|
 |[232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|stack|
 |[274. H指数](https://leetcode-cn.com/problems/h-index/)|排序+遍历|
 |[337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|递归|
@@ -16,8 +17,10 @@
 |[459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)|翻倍|
 |[466. 统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/)|抽屉原理|
 |[473. 火柴拼正方形](https://leetcode-cn.com/problems/matchsticks-to-square/)|DFS|
+|[478. 在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/)|极坐标|
 |[494. 目标和](https://leetcode-cn.com/problems/target-sum/)|Brute Force + Recursion/01背包|
 |[530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)|中序遍历|
+|[542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/)|BFS|
 |[594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)|排序|
 |[643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|Brute Force/01背包|
 |[673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|动态规划|
@@ -106,7 +109,13 @@
 [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|[solution](./records/673.md)
 
 [1009. 十进制整数的反码](https://leetcode-cn.com/problems/complement-of-base-10-integer/)|[solution](./records/1009.md)
-### 20190824 Mon
+### 20190826 Mon
 [473. 火柴拼正方形](https://leetcode-cn.com/problems/matchsticks-to-square/)|[solution](./records/473.md)
 
 [466. 统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/)|[solution](./records/466.md)
+### 20190827 Tue
+[542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/)|[solution](./records/542.md)
+
+[478. 在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/)|[solution](./records/478.md)
+
+[220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|[solution](./records/220.md)
