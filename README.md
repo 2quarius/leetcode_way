@@ -4,6 +4,7 @@
 |-------|--------|
 |[51. N皇后](https://leetcode-cn.com/problems/n-queens/)|回溯法|
 |[52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)|回溯法|
+|[74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)|二分查找|
 |[112. 路径总和](https://leetcode-cn.com/problems/path-sum/)|递归|
 |[140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|递归？回溯+减支？|
 |[148. 排序链表](https://leetcode-cn.com/problems/sort-list/)|[Merge Sort](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)(归并排序)|
@@ -24,6 +25,7 @@
 |[594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)|排序|
 |[643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|Brute Force/01背包|
 |[673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|动态规划|
+|[718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|动态规划|
 |[833. 字符串中的查找与替换](https://leetcode-cn.com/problems/find-and-replace-in-string/)|string::find,string::replace|
 |[842. 将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)|DFS 深度优先算法|
 |[879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)|动态规划|
@@ -119,3 +121,7 @@
 [478. 在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/)|[solution](./records/478.md)
 
 [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|[solution](./records/220.md)
+### 20190828 Mon
+[74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)|[solution](./records/74.md)
+
+[718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|[solution](./records/718.md)
