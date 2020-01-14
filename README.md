@@ -3,6 +3,8 @@
 |Problem|Solution|
 |-------|--------|
 [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/)|std::reverse|
+[10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)| Finite State Machine|
+|[36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)|map,vector|
 |[38. 外观数列](https://leetcode-cn.com/problems/count-and-say/)|brute force|
 |[51. N皇后](https://leetcode-cn.com/problems/n-queens/)|回溯法|
 |[52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)|回溯法|
@@ -17,11 +19,14 @@
 |[220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|排序+窗口|
 |[232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|stack|
 |[274. H指数](https://leetcode-cn.com/problems/h-index/)|排序+遍历|
+|[292. Nim Game](https://leetcode-cn.com/problems/nim-game/)|math|
 |[318. 最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/)|DP|
 |[337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|递归|
 |[344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)|异或？|
+|[429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|level order traverse|
 |[438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|频次|
 |[459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)|翻倍|
+|[463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/)|math or dfs|
 |[466. 统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/)|抽屉原理|
 |[473. 火柴拼正方形](https://leetcode-cn.com/problems/matchsticks-to-square/)|DFS|
 |[478. 在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/)|极坐标|
@@ -33,11 +38,14 @@
 |[657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)|奇偶|
 |[673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|动态规划|
 |[718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|动态规划|
+|[802. 找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/)|BFS, reverse graph|
 |[818. 赛车](https://leetcode-cn.com/problems/race-car/)|DP|
 |[833. 字符串中的查找与替换](https://leetcode-cn.com/problems/find-and-replace-in-string/)|string::find,string::replace|
+|[838. 推多米诺](https://leetcode-cn.com/problems/push-dominoes/)|括号匹配|
 |[842. 将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)|DFS 深度优先算法|
 |[850. 矩形面积 II](https://leetcode-cn.com/problems/rectangle-area-ii/)|[线段树](https://leetcode-cn.com/problems/rectangle-area-ii/solution/)|
 |[854. 相似度为 K 的字符串](https://leetcode-cn.com/problems/k-similar-strings/)|BFS|
+|[855. Exam Room](https://leetcode-cn.com/problems/exam-room/)|set or map|
 |[879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)|动态规划|
 |[903. DI 序列的有效排列](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)|动态规划|
 |[912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)|排序算法|
@@ -45,6 +53,7 @@
 |[971. 翻转二叉树以匹配先序遍历](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal/)|DFS 深度优先算法|
 |[985. 查询后的偶数和](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/)|math|
 |[993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/)|DFS 深度优先算法|
+|[996. 正方形数组的数目](https://leetcode-cn.com/problems/number-of-squareful-arrays/)|dfs|
 |[997. 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/)|出入度|
 |[1001. 网格照明](https://leetcode-cn.com/problems/grid-illumination/)| 遍历|
 |[1009. 十进制整数的反码](https://leetcode-cn.com/problems/complement-of-base-10-integer/)|stoi|
@@ -165,3 +174,22 @@
 [1138. 字母板上的路径](https://leetcode-cn.com/problems/alphabet-board-path/)|[solution](records/1138.md)
 
 [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[solution](records/122.md)
+
+### 20200114 Tue
+[996. 正方形数组的数目](https://leetcode-cn.com/problems/number-of-squareful-arrays/)|[solution](records/996.md)
+
+[36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)|[solution](records/36.md)
+
+[463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/)|[solution](records/463.md)
+
+[802. 找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/)|[solution](records/802.md)
+
+[855. Exam Room](https://leetcode-cn.com/problems/exam-room/)|[solution](records/855.md)
+
+[292. Nim Game](https://leetcode-cn.com/problems/nim-game/)|[solution](records/292.md)
+
+[838. 推多米诺](https://leetcode-cn.com/problems/push-dominoes/)|[solution](records/838.md)
+
+[429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|[solution](records/429.md)
+
+[10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)|[solution](records/10.md)
