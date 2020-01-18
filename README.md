@@ -11,10 +11,12 @@
 |[38. 外观数列](https://leetcode-cn.com/problems/count-and-say/)|brute force|
 |[51. N皇后](https://leetcode-cn.com/problems/n-queens/)|回溯法|
 |[52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)|回溯法|
+|[59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/)|math|
 |[73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)|set|
 |[74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)|二分查找|
 |[91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)|DP,fibonacci|
 |[96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)|recursion|
+|[105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|recursion|
 |[112. 路径总和](https://leetcode-cn.com/problems/path-sum/)|递归|
 |[113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)|recursion|
 |[115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)|DP|
@@ -24,6 +26,7 @@
 |[140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|递归？回溯+减支？|
 |[141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|dfs|
 |[148. 排序链表](https://leetcode-cn.com/problems/sort-list/)|[Merge Sort](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)(归并排序)|
+|[152. 乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/)|math|
 |[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|遍历|
 |[177. 第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/)|ORDER BY,DISTINCT|
 |[220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|排序+窗口|
@@ -38,10 +41,12 @@
 |[337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)|递归|
 |[344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)|异或？|
 |[388. 文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/)|正则匹配|
+|[396. 旋转函数](https://leetcode-cn.com/problems/rotate-function/)|错位规律|
 |[404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)|recursion|
 |[415. 字符串相加](https://leetcode-cn.com/problems/add-strings/)|math|
 |[429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|level order traverse|
 |[438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|频次|
+|[454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)|一分为二|
 |[459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)|翻倍|
 |[463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/)|math or dfs|
 |[466. 统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/)|抽屉原理|
@@ -56,6 +61,7 @@
 |[596. 超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/)|MySQL|
 |[611. 有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/)|lower_bound|
 |[643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|Brute Force/01背包|
+|[648. 单词替换](https://leetcode-cn.com/problems/replace-words/)|string to istringstream|
 |[657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)|奇偶|
 |[673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|动态规划|
 |[703. 数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)|heap|
@@ -63,6 +69,7 @@
 |[730. 统计不同回文子字符串](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)|DP|
 |[735. 行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/)|stack|
 |[779. 第K个语法符号](https://leetcode-cn.com/problems/k-th-symbol-in-grammar/)|recursion|
+|[801. 使序列递增的最小交换次数](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)|DP|
 |[802. 找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/)|BFS, reverse graph|
 |[803. 打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/)|union-find set|
 |[817. 链表组件](https://leetcode-cn.com/problems/linked-list-components/)|set|
@@ -76,13 +83,16 @@
 |[855. Exam Room](https://leetcode-cn.com/problems/exam-room/)|set or map|
 |[860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)|math|
 |[874. 模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/)|unordered_set|
+|[876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|快慢双指针|
 |[879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)|动态规划|
 |[903. DI 序列的有效排列](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)|动态规划|
 |[912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)|排序算法|
 |[938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)|recursion|
 |[949. 给定数字能组成的最大时间](https://leetcode-cn.com/problems/largest-time-for-given-digits/)|math|
 |[952. 按公因数计算最大组件大小](https://leetcode-cn.com/problems/largest-component-size-by-common-factor/)|筛素数+并查集|
+|[953. 验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|string compare|
 |[956. 最高的广告牌](https://leetcode-cn.com/problems/tallest-billboard/)|DP|
+|[964. 表示数字的最少运算符](https://leetcode-cn.com/problems/least-operators-to-express-number/)|DP|
 |[971. 翻转二叉树以匹配先序遍历](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal/)|DFS 深度优先算法|
 |[985. 查询后的偶数和](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/)|math|
 |[993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/)|DFS 深度优先算法|
@@ -98,6 +108,8 @@
 |[1144. 递减元素使数组呈锯齿状](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag/)|Brute Force|
 |[1147. 段式回文](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition/)|string|
 |[1179. 重新格式化部门表](https://leetcode-cn.com/problems/reformat-department-table/)|SQL|
+|[1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)|滑动窗口|
+|[1235. 规划兼职工作](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling/)|DP|
 |[1254. 统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)|dfs,recursion or coloring|
 
 
@@ -261,7 +273,7 @@
 
 [1179. 重新格式化部门表](https://leetcode-cn.com/problems/reformat-department-table/)|[solution](records/1179.md)
 
-### 20200116 Thu
+### 20200116 Thur
 [938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)|[solution](records/938.md)
 
 [1089. 复写零](https://leetcode-cn.com/problems/duplicate-zeros/)|[solution](records/1089.md)
@@ -288,7 +300,7 @@
 
 [730. 统计不同回文子字符串](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)|[solution](records/730.md)
 
-### 20200117
+### 20200117 Fri
 [817. 链表组件](https://leetcode-cn.com/problems/linked-list-components/)|[solution](records/817.md)
 
 [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[solution](records/260.md)
@@ -314,3 +326,29 @@
 [321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)|[solution](records/321.md)
 
 [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)|[solution](records/404.md)
+
+
+### 20200118 Sat
+[59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/)|[solution](records/59.md)
+
+[648. 单词替换](https://leetcode-cn.com/problems/replace-words/)|[solution](records/648.md)
+
+[964. 表示数字的最少运算符](https://leetcode-cn.com/problems/least-operators-to-express-number/)|[solution](records/964.md)
+
+[454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)|[solution](records/454.md)
+
+[152. 乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/)|[solution](records/152.md)
+
+[953. 验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|[solution](records/953.md)
+
+[876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[solution](records/876.md)
+
+[105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[solution](records/105.md)
+
+[801. 使序列递增的最小交换次数](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)|[solution](records/801.md)
+
+[1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)|[solution](records/1234.md)
+
+[1235. 规划兼职工作](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling/)|[solution](records/1235.md)
+
+[396. 旋转函数](https://leetcode-cn.com/problems/rotate-function/)|[solution](records/396.md)
