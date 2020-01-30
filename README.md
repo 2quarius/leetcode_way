@@ -3,6 +3,7 @@
 |Problem|Solution|
 |-------|--------|
 |[LCP 1. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)|no need to solve|
+|[4. 寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|findKth|
 |[9. 回文数](https://leetcode-cn.com/problems/palindrome-number/)|std::reverse|
 |[10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)| Finite State Machine|
 |[14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|brute force|
@@ -56,7 +57,9 @@
 |[396. 旋转函数](https://leetcode-cn.com/problems/rotate-function/)|错位规律|
 |[404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)|recursion|
 |[407. 接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii/)|math|
+|[413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)|math|
 |[415. 字符串相加](https://leetcode-cn.com/problems/add-strings/)|math|
+|[427. 建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/)|recursion|
 |[429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|level order traverse|
 |[435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)|Greedy|
 |[438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|频次|
@@ -75,9 +78,11 @@
 |[594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)|排序|
 |[596. 超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/)|MySQL|
 |[611. 有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/)|lower_bound|
+|[638. 大礼包](https://leetcode-cn.com/problems/shopping-offers/)|递归+回溯|
 |[643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|Brute Force/01背包|
 |[648. 单词替换](https://leetcode-cn.com/problems/replace-words/)|string to istringstream|
 |[657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)|奇偶|
+|[668. 乘法表中第k小的数](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/)|二分查找|
 |[673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|动态规划|
 |[703. 数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)|heap|
 |[706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/)|vector|
@@ -87,13 +92,16 @@
 |[740. 删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/)|DP|
 |[753. 破解保险箱](https://leetcode-cn.com/problems/cracking-the-safe/)|math|
 |[779. 第K个语法符号](https://leetcode-cn.com/problems/k-th-symbol-in-grammar/)|recursion|
+|[787. K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|dp|
 |[801. 使序列递增的最小交换次数](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)|DP|
 |[802. 找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/)|BFS, reverse graph|
 |[803. 打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/)|union-find set|
 |[817. 链表组件](https://leetcode-cn.com/problems/linked-list-components/)|set|
 |[818. 赛车](https://leetcode-cn.com/problems/race-car/)|DP|
+|[820. 单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/)|reverse+sort+prefix|
 |[826. 安排工作以达到最大收益](https://leetcode-cn.com/problems/most-profit-assigning-work/)|Greedy|
 |[833. 字符串中的查找与替换](https://leetcode-cn.com/problems/find-and-replace-in-string/)|string::find,string::replace|
+|[839. 相似字符串组](https://leetcode-cn.com/problems/similar-string-groups/)|并查集|
 |[838. 推多米诺](https://leetcode-cn.com/problems/push-dominoes/)|括号匹配|
 |[842. 将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)|DFS 深度优先算法|
 |[850. 矩形面积 II](https://leetcode-cn.com/problems/rectangle-area-ii/)|[线段树](https://leetcode-cn.com/problems/rectangle-area-ii/solution/)|
@@ -106,9 +114,13 @@
 |[883. 三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)|math|
 |[897. 递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/)|recursion|
 |[903. DI 序列的有效排列](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)|动态规划|
+|[904. 水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)|滑动窗口|
+|[909. 蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders/)|dp|
 |[912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)|排序算法|
+|[925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/)|双指针|
 |[935. 骑士拨号器](https://leetcode-cn.com/problems/knight-dialer/)|dp|
 |[938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)|recursion|
+|[946. 验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)|stack|
 |[949. 给定数字能组成的最大时间](https://leetcode-cn.com/problems/largest-time-for-given-digits/)|math|
 |[952. 按公因数计算最大组件大小](https://leetcode-cn.com/problems/largest-component-size-by-common-factor/)|筛素数+并查集|
 |[953. 验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|string compare|
@@ -123,6 +135,7 @@
 |[1001. 网格照明](https://leetcode-cn.com/problems/grid-illumination/)| 遍历|
 |[1008. 先序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)|recursion|
 |[1009. 十进制整数的反码](https://leetcode-cn.com/problems/complement-of-base-10-integer/)|stoi|
+|[1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)|dfs|
 |[1032. 字符流](https://leetcode-cn.com/problems/stream-of-characters/)|字典树|
 |[1072. 按列翻转得到最大值等行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|数学规律|
 |[1089. 复写零](https://leetcode-cn.com/problems/duplicate-zeros/)|math|
@@ -442,3 +455,30 @@
 [935. 骑士拨号器](https://leetcode-cn.com/problems/knight-dialer/)|[solution](records/935.md)
 
 [1124. 表现良好的最长时间段](https://leetcode-cn.com/problems/longest-well-performing-interval/)|[solution](records/1124.md)
+
+### 20200130 Thu
+[4. 寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|[solution](records/4.md)
+
+[427. 建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/)|[solution](records/427.md)
+
+[638. 大礼包](https://leetcode-cn.com/problems/shopping-offers/)|[solution](records/638.md)
+
+[413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)|[solution](records/413.md)
+
+[668. 乘法表中第k小的数](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/)|[solution](records/668.md)
+
+[839. 相似字符串组](https://leetcode-cn.com/problems/similar-string-groups/)|[solution](records/839.md)
+
+[925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/)|[solution](records/925.md)
+
+[820. 单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/)|[solution](records/820.md)
+
+[787. K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|[solution](records/787.md)
+
+[909. 蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders/)|[solution](records/909.md)
+
+[946. 验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)|[solution](records/946.md)
+
+[1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)|[solution](records/1020.md)
+
+[904. 水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)|[solution](records/904.md)
