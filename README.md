@@ -547,7 +547,7 @@
 
 [823. 带因子的二叉树](https://leetcode-cn.com/problems/binary-trees-with-factors/)|[solution](records/823.md)
 
-### 20200201 Sun
+### 20200201 Sat
 [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[solution](records/206.md)
 
 [481. 神奇字符串](https://leetcode-cn.com/problems/magical-string/)|[solution](records/481.md)
@@ -568,7 +568,7 @@
 
 [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)|[solution](records/1219.md)
 
-### 20200202 Sat
+### 20200202 Sun
 [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[solution](records/309.md)
 
 [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)|[solution](records/263.md)
@@ -590,3 +590,5 @@
 [1306. 跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/)|[solution](records/1306.md)
 
 [299. 猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/)|[solution](records/299.md)
+
+### 20200203 Mon
